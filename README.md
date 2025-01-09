@@ -1,3 +1,6 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
+
 <h2 align="left">Hi 👋! My name is Hugh Scott and I'm a Full-Stack Software Engineer, from Jamaica</h2>
 
 ###
