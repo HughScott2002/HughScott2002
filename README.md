@@ -1,6 +1,6 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="left">Trying to get into Fintech and AI</h1>
+<h1 align="left">Startup-minded developer chasing zero to one</h1>
 
 ###
 
