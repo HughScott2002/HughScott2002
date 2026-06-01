@@ -1,8 +1,8 @@
-<!-- <img src="banner.png" alt="GitHub Banner" width="100%" /> -->
+<img src="Founder (2).png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">Hugh Scott</h1>
+<!-- <h1 align="center">Hugh Scott</h1> -->
 
-<p align="center"><strong>Founder-engineer focused on product, systems, and design quality.</strong></p>
+<!-- <p align="center"><strong>Founder-engineer focused on product, systems, and design quality.</strong></p> -->
 
 <!--
 <div align="center">
