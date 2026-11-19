@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HughScott2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 -->
-
+<!--
 # Stack
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x5bWtoZHB5cTdqeDE2NzhxbDMxaTIybGZzbnl3aXh3dmMzdzBxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cat coding GIF" />
@@ -36,3 +36,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HughScott2002/HughScott2002/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/HughScott2002/HughScott2002/output/github-snake.svg" />
 </picture>
+-->
